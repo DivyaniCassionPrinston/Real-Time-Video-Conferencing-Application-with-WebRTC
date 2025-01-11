@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Real-Time-Video-Conferencing-Application-with-WebRTC/static/css/main.034ecf2a.css",
+    "main.js": "/Real-Time-Video-Conferencing-Application-with-WebRTC/static/js/main.3951b22a.js",
+    "static/js/787.9e9f4ffd.chunk.js": "/Real-Time-Video-Conferencing-Application-with-WebRTC/static/js/787.9e9f4ffd.chunk.js",
+    "static/media/background.png": "/Real-Time-Video-Conferencing-Application-with-WebRTC/static/media/background.95b6d5f6bdc5324bb5d4.png",
+    "index.html": "/Real-Time-Video-Conferencing-Application-with-WebRTC/index.html",
+    "main.034ecf2a.css.map": "/Real-Time-Video-Conferencing-Application-with-WebRTC/static/css/main.034ecf2a.css.map",
+    "main.3951b22a.js.map": "/Real-Time-Video-Conferencing-Application-with-WebRTC/static/js/main.3951b22a.js.map",
+    "787.9e9f4ffd.chunk.js.map": "/Real-Time-Video-Conferencing-Application-with-WebRTC/static/js/787.9e9f4ffd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.034ecf2a.css",
+    "static/js/main.3951b22a.js"
+  ]
+}
